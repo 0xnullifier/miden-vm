@@ -17,6 +17,7 @@
 - Simplify and optimize the recursive verifier (#1801).
 - Simplify auxiliary randomness generation (#1810).
 - Add handling of variable length public inputs to the recursive verifier (#1813).
+- Refactored `ProcedureName` validation logic to improve readability (#1663)
 
 #### Fixes
 
